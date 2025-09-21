@@ -143,7 +143,7 @@
 &kp TAB  &trans  &trans  &kp LCTRL  &lt 3 BACKSPACE  &lt 1 SPACE      &lt 2 ENTER  &kp RIGHT_SHIFT                                    &trans
             >;
 
-            sensor-bindings = <&inc_dec_kp PAGE_DOWN PAGE_UP>;
+            sensor-bindings = <&inc_dec_kp B A>;
         };
 
         FUNCTION {
